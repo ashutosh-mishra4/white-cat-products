@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Denim Delight Classic Jacket ",
+    "link": "xyz.com/p1",
+    "description": "Perfect for the denim lover looking for that timeless touch to their wardrobe.",
+    "price": 120,
+    "image_link": "https://ibb.co/28J88tN",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 25,
+    "inventory_policy": 1
+  },
+  {
+    "id": "2",
+    "title": "Crimson Comfort Hoodie",
+    "link": "xyz.com/p2",
+    "description": "Ideal for those who want to combine coziness with a splash of bold color.",
+    "price": 190,
+    "image_link": "https://ibb.co/6NNs8s9",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 30,
+    "inventory_policy": 1
+  },
+  {
+    "id": "3",
+    "title": "Maroon Muse Basic Tee",
+    "link": "xyz.com/p3",
+    "description": "A staple for anyone's closet, combining comfort with a rich, versatile hue.",
+    "price": 210,
+    "image_link": "https://ibb.co/C0Sx8bD",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 0,
+    "inventory_policy": 1
+  },
+  {
+    "id": "4",
+    "title": "CCaramel Corduroy A-line Skirt",
+    "link": "xyz.com/p4",
+    "description": "A retro-inspired skirt that brings a sweet, stylish twist to any outfit.",
+    "price": 110,
+    "image_link": "https://ibb.co/zHMpbbP",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 0,
+    "inventory_policy": 1
+  },
+  {
+    "id": "5",
+    "title": "Herringbone Harmony Pleated Skirt ",
+    "link": "xyz.com/p5",
+    "description": "For those who appreciate the blend of classic pattern with a free-flowing design.",
+    "price": 230,
+    "image_link": "https://ibb.co/gPh8KyP",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 0,
+    "inventory_policy": 1
+  },
+  {
+    "id": "6",
+    "title": "Emerald Elegance Maxi Dress",
+    "link": "xyz.com/p6",
+    "description": "A stunning piece for making a grand entrance with its vibrant color and graceful drape.",
+    "price": 450,
+    "image_link": "https://ibb.co/9cxVYgd",
+    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
+    "inventory_quantity": 0,
+    "inventory_policy": 1
+  }
+]
